@@ -2,7 +2,7 @@
 ## Project Overview
 This project is an interactive sales dashboard built in Microsoft Excel to analyze global automobile sales performance. The dashboard provides insights into sales trends, customer behavior, product performance, and revenue distribution, enabling data-driven business decisions.
 ## Project Access
-[check out my work here](Global_Auto_Sales_Dashboard)  
+[Check Out My Work](Global_Auto_Sales_Dashboard)  
 <img width="1883" height="920" alt="Dasshboard png" src="https://github.com/user-attachments/assets/22d0f6a7-b5ae-42fa-8123-6aa0dfb9fcdd" /> 
 ## Business Questions Answered
 * What is the total revenue generated?
